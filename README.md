@@ -32,9 +32,17 @@ https://github.com/abdulsurajbasha/Blinkit-Data-Analysis/blob/main/Blinkit_dashb
 - **DAX** for calculated measures  
 --**DAX FORMULAS**--
   Avg Rating = AVERAGE('BlinkIT Grocery Data'[Rating])
+
+  
   Avg Sales = AVERAGE('BlinkIT Grocery Data'[Sales])
+
+  
   No of Items = COUNTROWS('BlinkIT Grocery Data')
+
+  
   Total Sales = SUM('BlinkIT Grocery Data'[Sales])
+
+  
 ## 📌 Author  
 **Abdul Suraj Basha**  
 📧 abdulsuraj761@gmail.com  
