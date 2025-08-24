@@ -24,7 +24,7 @@ This repository contains a Power BI report (`.pbix`) built on Blinkit dataset to
 4. Explore interactive dashboards and insights.  
 
 ## 📷 Dashboard Previews  
-
+https://github.com/abdulsurajbasha/Blinkit-Data-Analysis/blob/main/Blinkit_dashboard.png
 
 ## 🛠 Tools Used  
 - **Power BI Desktop**  
